@@ -39,6 +39,9 @@
         color: #21b491;
         position: relative;
     }
+    .logo{
+        width: 30%;
+    }
     .header .links.open{
         display: flex;
         justify-content: center;
